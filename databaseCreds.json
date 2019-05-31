@@ -1,0 +1,7 @@
+{
+  "host": "manny.db.elephantsql.com",
+  "port": 5432,
+  "user": "user",
+  "database": "database",
+  "password": "password"
+}
