@@ -15,12 +15,12 @@
      * Edit product
      * Options where admin can add some promocodes
 # Screenshots
-Main page:
+## Main page:
 ![alt text](https://picua.org/images/2019/05/31/bf8c4651fc52f81bc7582a83e6896b1d.png)
 ![alt text](https://picua.org/images/2019/05/31/b0a8ff14f47dbb6d9d268358507cd6dc.png)
-Cart page:
+## Cart page:
 ![alt text](https://picua.org/images/2019/05/31/75471a4348eb5466324d07b9e7c10e13.png)
-Admin panel:
+## Admin panel:
 ![alt text](https://picua.org/images/2019/05/31/b668d0316f3996828834b0cedb981100.png)
 
 ## Project setup
